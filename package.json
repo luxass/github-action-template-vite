@@ -1,6 +1,7 @@
 {
   "name": "github-action-template",
   "version": "0.0.0",
+  "type": "module",
   "description": "Write your description here",
   "author": {
     "name": "Lucas Nørgård",
@@ -9,7 +10,7 @@
   },
   "packageManager": "pnpm@9.5.0",
   "license": "MIT",
-  "main": "dist/index.js",
+  "main": "dist/index.cjs",
   "scripts": {
     "build": "vite build",
     "lint": "eslint .",
