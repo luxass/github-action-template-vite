@@ -1,6 +1,6 @@
 # github-action-template-vite
 
-An opinionated github actions template
+An opinionated GitHub Actions Template using [vite](https://vitejs.dev) for bundling.
 
 ## Try it now!
 
