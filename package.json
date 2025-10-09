@@ -17,14 +17,14 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "@actions/core": "^1.11.1"
+    "@actions/core": "1.11.1"
   },
   "devDependencies": {
-    "@luxass/eslint-config": "^5.3.1",
-    "@types/node": "^22.0.0",
-    "eslint": "^9.35.0",
-    "eslint-plugin-format": "^1.0.1",
-    "typescript": "^5.9.2",
+    "@luxass/eslint-config": "5.3.1",
+    "@types/node": "22.17.2",
+    "eslint": "9.35.0",
+    "eslint-plugin-format": "1.0.1",
+    "typescript": "5.9.2",
     "vite": "7.1.5"
   },
   "pnpm": {
