@@ -16,8 +16,8 @@ importers:
         specifier: 9.38.0
         version: 9.38.0
       '@types/node':
-        specifier: 24.9.1
-        version: 24.9.1
+        specifier: 24.10.1
+        version: 24.10.1
       eslint:
         specifier: 9.38.0
         version: 9.38.0
@@ -29,7 +29,7 @@ importers:
         version: 8.46.2(eslint@9.38.0)(typescript@5.9.3)
       vite:
         specifier: 7.1.12
-        version: 7.1.12(@types/node@24.9.1)(yaml@2.8.1)
+        version: 7.1.12(@types/node@24.10.1)(yaml@2.8.1)
 
 packages:
 
@@ -375,8 +375,8 @@ packages:
   '@types/json-schema@7.0.15':
     resolution: {integrity: sha512-5+fP8P8MFNC+AyZCDxrB2pkZFPGzqQWUzpSeuuVLvm8VMcorNYavBqoFcxK8bQz4Qsbn4oUEEem4wDLfcysGHA==}
 
-  '@types/node@24.9.1':
-    resolution: {integrity: sha512-QoiaXANRkSXK6p0Duvt56W208du4P9Uye9hWLWgGMDTEoKPhuenzNcC4vGUmrNkiOKTlIrBoyNQYNpSwfEZXSg==}
+  '@types/node@24.10.1':
+    resolution: {integrity: sha512-GNWcUTRBgIRJD5zj+Tq0fKOJ5XZajIiBroOF0yvj2bSU1WvNdYS/dn9UxwsujGW4JX06dnHyjV2y9rRaybH0iQ==}
 
   '@typescript-eslint/eslint-plugin@8.46.2':
     resolution: {integrity: sha512-ZGBMToy857/NIPaaCucIUQgqueOiq7HeAKkhlvqVV4lm089zUFW6ikRySx2v+cAhKeUCPuWVHeimyk6Dw1iY3w==}
@@ -1130,7 +1130,7 @@ snapshots:
 
   '@types/json-schema@7.0.15': {}
 
-  '@types/node@24.9.1':
+  '@types/node@24.10.1':
     dependencies:
       undici-types: 7.16.0
 
@@ -1645,7 +1645,7 @@ snapshots:
     dependencies:
       punycode: 2.3.1
 
-  vite@7.1.12(@types/node@24.9.1)(yaml@2.8.1):
+  vite@7.1.12(@types/node@24.10.1)(yaml@2.8.1):
     dependencies:
       esbuild: 0.25.4
       fdir: 6.5.0(picomatch@4.0.3)
@@ -1654,7 +1654,7 @@ snapshots:
       rollup: 4.46.2
       tinyglobby: 0.2.15
     optionalDependencies:
-      '@types/node': 24.9.1
+      '@types/node': 24.10.1
       fsevents: 2.3.3
       yaml: 2.8.1
 
