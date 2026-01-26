@@ -20,11 +20,11 @@
     "@actions/core": "1.11.1"
   },
   "devDependencies": {
-    "@eslint/js": "9.39.1",
+    "@eslint/js": "9.39.2",
     "@types/node": "24.10.2",
-    "eslint": "9.39.1",
+    "eslint": "9.39.2",
     "typescript": "5.9.3",
-    "typescript-eslint": "8.48.1",
+    "typescript-eslint": "8.53.1",
     "vite": "7.2.6"
   }
 }
