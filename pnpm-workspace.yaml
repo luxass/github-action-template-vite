@@ -1,6 +1,6 @@
 ignoreScripts: true
 catalogMode: prefer
-minimumReleaseAge: 5760
+minimumReleaseAge: 5760 # 4 days in minutes
 trustPolicy: no-downgrade
 strictDepBuilds: true
 blockExoticSubdeps: true
